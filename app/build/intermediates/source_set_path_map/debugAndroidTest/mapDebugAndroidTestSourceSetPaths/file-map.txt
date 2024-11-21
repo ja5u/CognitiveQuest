@@ -1,0 +1,6 @@
+com.example.cognitive.test.app-androidTest-0 C:\Users\aksu\AndroidStudioProjects\cse225\Cognitive\app\build\generated\res\resValues\androidTest\debug
+com.example.cognitive.test.app-mergeDebugAndroidTestResources-1 C:\Users\aksu\AndroidStudioProjects\cse225\Cognitive\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.cognitive.test.app-mergeDebugAndroidTestResources-2 C:\Users\aksu\AndroidStudioProjects\cse225\Cognitive\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.cognitive.test.app-debugAndroidTest-3 C:\Users\aksu\AndroidStudioProjects\cse225\Cognitive\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
+com.example.cognitive.test.app-jetified-annotation-experimental-1.4.0-4 C:\Users\aksu\gradle-8.2.1-all\caches\transforms-4\39418a9d8a74acbdde82e4d894bf7d0a\transformed\jetified-annotation-experimental-1.4.0\res
+com.example.cognitive.test.app-jetified-core-1.5.0-5 C:\Users\aksu\gradle-8.2.1-all\caches\transforms-4\be8f25d1bd010873aad258f25bef7e10\transformed\jetified-core-1.5.0\res

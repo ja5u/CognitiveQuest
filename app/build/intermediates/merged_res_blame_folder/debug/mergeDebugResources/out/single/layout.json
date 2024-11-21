@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-mergeDebugResources-4:\\layout\\activity_about.xml",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-mergeDebugResources-4:\\layout\\activity_chapter.xml",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\layout\\activity_chapter.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-mergeDebugResources-4:\\layout\\custom_course_layout.xml",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\layout\\custom_course_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-mergeDebugResources-4:\\layout\\activity_settings.xml",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "com.example.cognitive.app-mergeDebugResources-4:/layout/item_flashcard_set.xml",
+        "source": "com.example.cognitive.app-main-7:/layout/item_flashcard_set.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-mergeDebugResources-4:\\layout\\activity_result_card.xml",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\layout\\activity_result_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-mergeDebugResources-4:\\layout\\activity_remiander.xml",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\layout\\activity_remiander.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-mergeDebugResources-4:\\layout\\activity_splash_screen.xml",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-mergeDebugResources-4:\\layout\\dialog_add_flashcard.xml",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\layout\\dialog_add_flashcard.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-mergeDebugResources-4:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-mergeDebugResources-4:\\layout\\fragment_sign_in.xml",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\layout\\fragment_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-mergeDebugResources-4:\\layout\\item_flashcard_set.xml",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\layout\\item_flashcard_set.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-mergeDebugResources-4:\\layout\\activity_material.xml",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\layout\\activity_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-mergeDebugResources-4:\\layout\\nav_header.xml",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-mergeDebugResources-4:\\layout\\custom_popup.xml",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\layout\\custom_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-mergeDebugResources-4:\\layout\\activity_my_profile.xml",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\layout\\activity_my_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-mergeDebugResources-4:\\layout\\activity_score.xml",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\layout\\activity_score.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-mergeDebugResources-4:\\layout\\fragment_login.xml",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-mergeDebugResources-4:\\layout\\custom_score_history.xml",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\layout\\custom_score_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-mergeDebugResources-4:\\layout\\item_image_with_buy_button.xml",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\layout\\item_image_with_buy_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-mergeDebugResources-4:\\layout\\activity_alarm_receiver.xml",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\layout\\activity_alarm_receiver.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-mergeDebugResources-4:\\layout\\activity_page.xml",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\layout\\activity_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-mergeDebugResources-4:\\layout\\activity_home.xml",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-mergeDebugResources-4:\\layout\\activity_rate.xml",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\layout\\activity_rate.xml"
+    }
+]

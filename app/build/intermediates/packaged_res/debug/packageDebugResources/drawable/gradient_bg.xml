@@ -1,0 +1,49 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Background Color Layer -->
+    <item android:id="@+id/gradient_bg">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/cardBackgroundSoftPurple"/> <!-- Set your desired background color -->
+        </shape>
+    </item>
+
+    <!-- First Stripe (Color 1) -->
+    <item>
+        <rotate
+            android:fromDegrees="40"
+            android:toDegrees="45"
+            android:pivotX="0%"
+            android:pivotY="0%">
+            <shape android:shape="rectangle">
+                <solid android:color="#FF9A9E" />
+            </shape>
+        </rotate>
+    </item>
+
+    <!-- Second Stripe (Color 2) -->
+    <item android:left="50dp">
+        <rotate
+            android:fromDegrees="40"
+            android:toDegrees="45"
+            android:pivotX="0%"
+            android:pivotY="0%">
+            <shape android:shape="rectangle">
+                <solid android:color="#FECFEF" />
+            </shape>
+        </rotate>
+    </item>
+
+    <!-- Third Stripe (Color 3) -->
+    <item android:left="100dp">
+        <rotate
+            android:fromDegrees="40"
+            android:toDegrees="45"
+            android:pivotX="0%"
+            android:pivotY="0%">
+            <shape android:shape="rectangle">
+                <solid android:color="#FFD8A3" />
+            </shape>
+        </rotate>
+    </item>
+
+</layer-list>

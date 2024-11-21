@@ -1,0 +1,32 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Background Color Layer -->
+    <item android:id="@+id/gradient_bg">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/cardBackgroundBlue"/> <!-- Set your desired background color -->
+            <padding
+                android:left="30dp"
+                android:right="30dp"
+                android:top="30dp"
+                android:bottom="30dp" />
+        </shape>
+    </item>
+
+    <!-- Outer Box 1 (Larger Box) -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#FF9A9E" /> <!-- Color for outer box -->
+            <corners android:radius="16dp" /> <!-- Rounded corners -->
+            <padding
+                android:left="15dp"
+                android:right="15dp"
+                android:top="15dp"
+                android:bottom="15dp" />
+        </shape>
+    </item>
+
+
+
+
+
+</layer-list>

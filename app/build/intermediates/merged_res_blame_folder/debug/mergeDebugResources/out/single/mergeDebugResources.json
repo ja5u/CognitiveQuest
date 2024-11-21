@@ -1,0 +1,510 @@
+[
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_andro2.png.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\andro2.png"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\raw_mainlogo.json.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\raw\\mainlogo.json"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\raw_v1.mp4.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\raw\\v1.mp4"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_quizeheader.png.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\quizeheader.png"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\raw_success.mp3.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\raw\\success.mp3"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\layout_activity_chapter.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\layout\\activity_chapter.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_python2.png.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\python2.png"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_baseline_book_24.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\baseline_book_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_java3.png.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\java3.png"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_baseline_settings_24.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\baseline_settings_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_item_selector.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\item_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\layout_activity_material.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\layout\\activity_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_main.png.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\main.png"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_q1.png.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\q1.png"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\anim_slide_out_left.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_mylogo.png.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\mylogo.png"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_baseline_calendar_24.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\baseline_calendar_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_img_5.png.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\img_5.png"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\xml_user_data.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\xml\\user_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_background_btn.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\background_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_python3.png.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\python3.png"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_andro3.png.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\andro3.png"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_baseline_score_24.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\baseline_score_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\layout_activity_remiander.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\layout\\activity_remiander.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_q2.png.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\q2.png"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\layout_activity_score.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\layout\\activity_score.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_neutral_24.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\neutral_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_img_4.png.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\img_4.png"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_java1.png.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\java1.png"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\layout_activity_my_profile.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\layout\\activity_my_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_user.png.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_andro4.png.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\andro4.png"
+    },
+    {
+        "merged": "com.example.cognitive.app-debug-5:/layout_item_flashcard_set.xml.flat",
+        "source": "com.example.cognitive.app-main-7:/layout/item_flashcard_set.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_baseline_about.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\baseline_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\layout_activity_alarm_receiver.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\layout\\activity_alarm_receiver.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\layout_custom_score_history.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\layout\\custom_score_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\raw_lakalaka.mp3.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\raw\\lakalaka.mp3"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_round_bar.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\round_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_andro1.png.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\andro1.png"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_box.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\box.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_alarm.png.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\alarm.png"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\layout_item_flashcard_set.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\layout\\item_flashcard_set.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_custom_toast_background.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\custom_toast_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_q3.png.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\q3.png"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_baseline_email_24.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\baseline_email_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_background_top.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\background_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_img.png.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_baseline_alarm_24.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\baseline_alarm_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_satisfied_24.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\satisfied_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_baseline_logout_24.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\baseline_logout_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_python1.png.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\python1.png"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\layout_custom_course_layout.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\layout\\custom_course_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_background_btn_choose_color.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\background_btn_choose_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_baseline_rate_review_24.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\baseline_rate_review_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_c3.png.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\c3.png"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_baseline_name_24.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\baseline_name_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_stop_24.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\stop_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\layout_nav_header.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_bg_corner.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\bg_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_right_24.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\right_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\menu_nav_menu.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\menu\\nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_bg_phrase_count.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\bg_phrase_count.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_gradient_bg.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\gradient_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_img_2.png.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\img_2.png"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_back_24.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\back_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_bottom_background.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\bottom_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\layout_item_image_with_buy_button.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\layout\\item_image_with_buy_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\layout_fragment_sign_in.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\layout\\fragment_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_custom_card.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\custom_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_login.png.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\login.png"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_custom_progress.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\custom_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_dissatisfied_24.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\dissatisfied_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_very_dissatisfied_24.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\very_dissatisfied_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_img_1.png.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\img_1.png"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_c1.png.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\c1.png"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\layout_dialog_add_flashcard.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\layout\\dialog_add_flashcard.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_baseline_lock_24.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\baseline_lock_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\layout_fragment_login.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_background_btn_correct.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\background_btn_correct.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_signin.png.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\signin.png"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\anim_slide_in_right.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\layout_activity_result_card.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\layout\\activity_result_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_baseline_profile.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\baseline_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\layout_activity_page.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\layout\\activity_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_baseline_password_24.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\baseline_password_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_circle_bg.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\circle_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_very_satisfied_24.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\very_satisfied_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_c2.png.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\c2.png"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\layout_custom_popup.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\layout\\custom_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\raw_failure.mp3.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\raw\\failure.mp3"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_add_24.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_edittext_bkg.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\edittext_bkg.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_background_btn_choose.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\background_btn_choose.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_java2.png.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\java2.png"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\menu_toolbar_menu.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\menu\\toolbar_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_img_3.png.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\img_3.png"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_background_btn_erreur.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\background_btn_erreur.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\baseline_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_alarm_24.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\alarm_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_viewpager_bkg.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\viewpager_bkg.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\menu_bottom_menu.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\menu\\bottom_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_andro5.png.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\andro5.png"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_tab_bkg.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\tab_bkg.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\layout_activity_rate.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\layout\\activity_rate.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\drawable_img_6.png.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\drawable\\img_6.png"
+    },
+    {
+        "merged": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-debug-5:\\layout_activity_about.xml.flat",
+        "source": "C:\\Users\\aksu\\gradle-8.2.1-all\\daemon\\8.7\\com.example.cognitive.app-main-7:\\layout\\activity_about.xml"
+    }
+]
